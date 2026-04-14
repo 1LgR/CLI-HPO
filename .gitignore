@@ -1,0 +1,19 @@
+node_modules/
+
+# Build/output artifacts
+*.html
+
+# Runtime temp/cache directories
+h5p/libraries/
+h5p/content/
+h5p/tmp/
+h5p/user-data/
+
+# Local sample/input files
+content/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
